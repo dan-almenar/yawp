@@ -12,8 +12,8 @@ Beta version is live. You may sign up [here](https://u-yawp.web.app)!
 - JavaScript.
 - HTML
 - CSS
+![languages](/yawp-languages.png)
 
 ### Note:
 Up untill 11/29th the code for this project was on a public repo, yet I set the code repo as private and created this repo to showcase the app as is live.
 
-![languages](/yawp-languages.png)
